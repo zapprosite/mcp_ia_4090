@@ -1,0 +1,17 @@
+# pesos/modelos/artefatos grandes
+**/*.gguf
+**/*.safetensors
+**/*.bin
+**/*.pt
+**/*.pth
+**/*.tar
+**/*.tgz
+**/*.zip
+hf_cache/
+ollama_models/
+models/
+qdrant/storage/
+# segredos e var. locais
+.env
+*.env
+secrets/*.*
