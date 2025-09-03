@@ -13,3 +13,10 @@ qdrant/storage/
 .env
 *.env
 secrets/*.*
+# segredos e caches
+*.env
+.env
+**/*tokens.env
+runtime/*tokens.env
+runtime/*.log
+netrc.backup
