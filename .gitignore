@@ -1,4 +1,3 @@
-# pesos/modelos/artefatos grandes
 **/*.gguf
 **/*.safetensors
 **/*.bin
@@ -11,7 +10,6 @@ hf_cache/
 ollama_models/
 models/
 qdrant/storage/
-# segredos e var. locais
 .env
 *.env
 secrets/*.*
